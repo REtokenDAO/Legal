@@ -19,7 +19,7 @@ As indicated within "[RIP-1 | Genesis Proposal (Season 0)](https://snapshot.org/
 
 > ***$RETOKEN is for fun.***
 
-If any member chooses to entirely withdrawal from REtoken, they may send their entire $RETOKEN balance to safe.REtokenDAO.eth (wallet address: 0x2452A5721DE3e43169c456E464774B68a3942480).
+If any member chooses to entirely withdrawal from REtoken, they may send their entire $RETOKEN balance to safe-poly.REtokenDAO.eth (wallet address: 0x0A2830525ea50d274e24D2911Cf514523dBE10d8).
 
 # Historical REtoken Context
 
@@ -32,6 +32,7 @@ If any member chooses to entirely withdrawal from REtoken, they may send their e
 * Trello Card (private board): [Start Operating Agreement in Google Docs](https://trello.com/c/g3HR4TMj/33-start-operating-agreement-in-google-docs)
 
 # Version History
+* v0.31 - changed Gnosis-Safe address for Polygon
 * v0.3 - updates by @Yonks on 24Oct2021 (initial file)
 * v0.2 - [RIP-4 | Update REtoken DAO LLC Articles of Organization with Wyoming SOS](https://snapshot.org/#/retokendao.eth/proposal/QmRG1FMqeArpy4NMd4XTrFm18fKB7NpkDEZwxpnBELMKzQ)
 > *verbiage that will be used to amend Articles:*
