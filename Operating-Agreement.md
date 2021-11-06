@@ -1,13 +1,13 @@
-# [DRAFT] REtoken DAO LLC | Operating Agreement
-<img src="https://pbs.twimg.com/media/E7NDzbcVgAMGPGQ.jpg" width=400 align=right>
-NOTE:  This is currently a "Work In Progress" and will be reflected as so until an official RIP (REtoken Improment Proposal) has passed.
+# REtoken DAO LLC | Operating Agreement
+[<img src="https://pbs.twimg.com/media/E7NDzbcVgAMGPGQ.jpg" width=400 align=right>](https://twitter.com/REtokenDAO/status/1419553805369151490)
 
 # REtoken DAO LLC (a Wyoming DAO LLC)
-REtoken is organized under Wyoming's "DAO" LLC law.
+REtoken is organized under Wyoming's DAO LLC law.
 
 ## Wyoming DAO LLC Regulations (2021 - SF0038)
-* [[WY] Wyoming Legislation 2021 | SF0038 - Decentralized autonomous organizations](https://www.wyoleg.gov/Legislation/2021/SF0038)
-* [Decentralized Autonomous Organization (DAO): Frequently Asked Questions (sos.wyo.gov)](https://sos.wyo.gov/Business/Docs/DAOs_FAQs.pdf)
+* [Wyoming Legislation 2021 | Bill Detail: SF0038 - Decentralized autonomous organizations (wyoleg.gov)](https://www.wyoleg.gov/Legislation/2021/SF0038)
+* [Decentralized Autonomous Organization (DAO): FAQs | Frequently Asked Questions (sos.wyo.gov)](https://sos.wyo.gov/Business/Docs/DAOs_FAQs.pdf)
+* [Decentralized Autonomous Organization (DAO): Supplement (sos.wyo.gov)](https://sos.wyo.gov/Forms/WyoBiz/DAO_Supplement.pdf)
 
 # [WY] 17-31-104. NOTICE OF RESTRICTIONS ON DUTIES AND TRANSFERS
 
@@ -29,9 +29,10 @@ If any member chooses to entirely withdrawal from REtoken, they may send their e
 2. In the event of unresolved disputes next course of action is non-binding mediation.
 3. Final course of action is individual binding arbitration.
 
-Be participating within this DAO you are waiving your right to a jury trial and any class-action lawsuits.
+By participating within this DAO you are waiving your right to a jury trial and any class-action lawsuits.
 
 # Treasury Management
+[<img src="https://pbs.twimg.com/media/E-t223TWYAIPLY_.jpg" width=275 align=right>](https://twitter.com/REtokenDAO/status/1435371952630341639)
 
 ## Gnosis Safe Multi-Sig Treasury Wallet
 
@@ -39,6 +40,8 @@ Be participating within this DAO you are waiving your right to a jury trial and 
 ```0x2452A5721DE3e43169c456E464774B68a3942480```
 
 ### safe-poly.REtokenDAO.eth
+[<img src="https://pbs.twimg.com/media/E-t24wJXEAE-qNz.jpg" width=275 align=right>](https://twitter.com/REtokenDAO/status/1435371952630341639)
+
 ```0x0A2830525ea50d274e24D2911Cf514523dBE10d8```
 
 ### Multi-Sig Signers ("Owners")
@@ -54,6 +57,9 @@ Be participating within this DAO you are waiving your right to a jury trial and 
 - expect that this will be a function of our forthcoming “Board of Stewards” (BoS)
 
 # Version History
+[<img src="https://trello.com/1/cards/610597824912cd8c0b8fa69f/attachments/6181b7635c271684111d5609/download/POAP_REtoken.DAO_legal0wg1_2021-11-03.png" width=275 align=right>](https://trello.com/c/g3HR4TMj)
+
+* v1.0 - [Snapshot Proposal: RIP-7](https://snapshot.org/#/retokendao.eth/proposal/0x8e6e1ff81cd7524c7a214ce46ab896b970a72e52d7d0ca2559694487043ac1db) | finalized during REtoken Legal Working Group #1 on 03Nov2021 ([YouTube video](https://youtu.be/dpwjiB5A-18), [Trello Card](https://trello.com/c/g3HR4TMj))
 * v0.31 - changed Gnosis-Safe address for Polygon
 * v0.3 - updates by @Yonks on 24Oct2021 (initial file)
 * v0.2 - [RIP-4 | Update REtoken DAO LLC Articles of Organization with Wyoming SOS](https://snapshot.org/#/retokendao.eth/proposal/QmRG1FMqeArpy4NMd4XTrFm18fKB7NpkDEZwxpnBELMKzQ)
